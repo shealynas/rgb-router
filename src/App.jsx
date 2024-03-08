@@ -27,6 +27,7 @@ function App() {
             const randomPageIndex = Math.floor(
               Math.random() * pageRoutes.length
             );
+            navigate(pageRoutes[randomPageIndex]);
           }}
         >
           Random Page
