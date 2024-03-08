@@ -1,4 +1,4 @@
-import { Route, Routes, NavLink, useNavigate } from "react-route-dom";
+import { Route, Routes, NavLink, useNavigate } from "react-router-dom";
 import Red from "./Routes/Red";
 import Green from "./Routes/Green";
 import Blue from "./Routes/Blue";
